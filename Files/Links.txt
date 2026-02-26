@@ -1,0 +1,28 @@
+
+*Install a python package using a mirror:* 
+
+pip install pkgname -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+*Or using another mirror:* 
+pip install pkgname -i https://mirrors.aliyun.com/pypi/simple
+
+-----
+
+https://www.kaggle.com/datasets/ahmedmohamed2003/cafe-sales-dirty-data-for-cleaning-training
+
+ملاحظة بسيطة في التكليف
+بعض الitems معها نفس سعر، ف علاشان تحلو هذي المشكلة اعتمدوا الitem الذي هو موجود في الdata اكثر
+
+-----
+
+مصدر حلو كبداية:
+https://pandas.pydata.org/docs/user_guide/10min.html ع اساس يقرأه الواحد في عشر دقائق
+https://medium.com/activated-thinker/numpy-pandas-the-only-guide-you-need-7595c0461b30 وذا حلو والكل
+
+ذولا منشورات بيغوصين شوية في الadvanced:
+https://obedmacallums.com/posts/advanced-pandas-techniques/
+https://deepnote.com/blog/speed-up-pandas-with-numpy-methods
+
+-----
+
